@@ -57,3 +57,14 @@ A. For Owners
         1. Particular way for standard training and onboarding process
         2. Utilize online learning material 
         3. Prioritize daily schedule of reminders or updates
+
+B. For Employees
+    Questions:
+        1. Which steps are hard for client's onboarding?
+        2. How is client onboarding carried out under different employee?
+        3. By utilizing which tools, onboarding process becomes user-friendly?
+        4. From where and how training schedule are created for client's onboarding
+    Knowledge intended to expose:
+        1. Method that makes client onboarding speedy and convenient to understand
+        2. Prioritize standard training materials for employees
+        3. Provide standard guidelines to ease onboarding process
