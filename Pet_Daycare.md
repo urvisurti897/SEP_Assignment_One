@@ -45,3 +45,15 @@ C. For Customers
     6. Follow daily schedule to send updates or reminders to client
     7. Utilize client feedback process to improve service
 
+
+Questions & what knowledge you are intending to expose : 
+A. For Owners
+    Questions:
+        1. What issues occur while onboarding new employees?
+        2. Is there specific skills or knowledge mandatory in new employee ?
+        3. How is onboarding process tracked ?
+        4. What cost or time is acquired for training of new employee?
+    Knowledge intended to expose:
+        1. Particular way for standard training and onboarding process
+        2. Utilize online learning material 
+        3. Prioritize daily schedule of reminders or updates
