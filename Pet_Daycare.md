@@ -68,3 +68,14 @@ B. For Employees
         1. Method that makes client onboarding speedy and convenient to understand
         2. Prioritize standard training materials for employees
         3. Provide standard guidelines to ease onboarding process
+
+C. For Customers
+    Questions:
+        1. What challenges appeared for onboarding process?
+        2. How are the informative guidelines conveyed to client from daycare?
+        3. How clients prefer to have their daily schedule reminders or updates ?
+    Knowledge intended to expose: 
+        1. Generate method to ease onboarding procedures
+        2. Reserve expert to do convey good communication
+        3. Provide sample videos or pictures to make onboarding process user-friendly
+        4. Implement client's feedback to improve onboarding process
