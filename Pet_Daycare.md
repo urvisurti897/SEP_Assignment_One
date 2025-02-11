@@ -42,3 +42,6 @@ C. For Customers
     3. Implement demo pictures or videos for process explanation
     4. Be precise while communication and on time task with clients
     5. Reserve an expert employee to clear client's doubt
+    6. Follow daily schedule to send updates or reminders to client
+    7. Utilize client feedback process to improve service
+
