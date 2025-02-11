@@ -107,3 +107,17 @@ Possible follow up clarification questions that are generated from the informati
         6. What is your communication preference for onboarding process?
 
 
+A set of preliminary tasks (name only) for fulfilling the requirements
+    1. Monitor current employee onboarding process
+    2. Recognize how training slows down 
+    3. Generate standard training materials
+    4. Develop guidelines modules
+    5. Generate standard process for new clients
+    6. Generate user-friendly procedures
+    7. Generate easy steps for onboarding process
+    8. Arrange regular training sessions for employees
+    9. Start a clear communication medium for clients
+    10. Design demo video and pictures for client onboarding
+    11. Collect feedback from clients to improve service
+    12. Frequently review onboarding process for reminders or updates
+
