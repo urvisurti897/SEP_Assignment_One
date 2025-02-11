@@ -79,3 +79,14 @@ C. For Customers
         2. Reserve expert to do convey good communication
         3. Provide sample videos or pictures to make onboarding process user-friendly
         4. Implement client's feedback to improve onboarding process
+
+
+Possible follow up clarification questions that are generated from the information :
+    A. For Owners
+        1. Could you give complete data for new onboarding employee?
+        2. Which section of onboarding process acquires more time?
+        3. How to decide about an employee is ready to work individually ? 
+        4. Which standard materials are followed for training of onboarding process?
+        5. Which section of onboarding process requires more attention?
+        6. At what time of period, onboarding material is updated?
+
