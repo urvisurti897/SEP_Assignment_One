@@ -36,3 +36,9 @@ B. For Employees
     5. Provide training at few intervals based on client's data
     6.  Start Q&A session to grab more help from employees
 
+C. For Customers
+    1. Implement easy onboarding process
+    2. Generate particular guidelines for clients
+    3. Implement demo pictures or videos for process explanation
+    4. Be precise while communication and on time task with clients
+    5. Reserve an expert employee to clear client's doubt
