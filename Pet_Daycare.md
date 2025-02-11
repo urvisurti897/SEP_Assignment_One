@@ -12,3 +12,8 @@ B. Frustration of Employee:
     3.	If an employee does not have proper guidance of training components, then it might cause major issues 
     4.	If onboarding process is lengthy, then new employee might be misguided from handling crucial work 
 
+C. Frustration of Customer:
+    1.	In onboarding process , if the navigation steps are difficult then clients might face issue to gather information about daycare
+    2.	If employee miscommunicate with clients, then it creates bad impact
+    3.	It might be frustrating if client experience improper treatment  from the employee who handles the onboarding process
+    4.	If onboarding process is complicated, then clients may face difficulty to utilize services of daycare promptly
