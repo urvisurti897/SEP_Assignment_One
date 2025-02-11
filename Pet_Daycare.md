@@ -17,3 +17,13 @@ C. Frustration of Customer:
     2.	If employee miscommunicate with clients, then it creates bad impact
     3.	It might be frustrating if client experience improper treatment  from the employee who handles the onboarding process
     4.	If onboarding process is complicated, then clients may face difficulty to utilize services of daycare promptly
+
+
+Breakdown Points: 
+A. For Owners
+    1. Generate or start support training schedule for quick learning
+    2. Use online learning materials to be prompt and convenient
+    3. Generate specified instructions manual for all onboarding section
+    4. Carry out daily examination for all onboarding section
+    5. Reserve faithful and expert trainers
+    6. Verify enough cost and training time
