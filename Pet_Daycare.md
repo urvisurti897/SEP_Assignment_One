@@ -27,3 +27,12 @@ A. For Owners
     4. Carry out daily examination for all onboarding section
     5. Reserve faithful and expert trainers
     6. Verify enough cost and training time
+
+B. For Employees
+    1. Setup user-friendly onboarding system or software
+    2. Create detailed and informative guide for employees and client's data
+    3. Implement standard method of onboarding process and training 
+    4. Verify that standard method is followed by everyone
+    5. Provide training at few intervals based on client's data
+    6.  Start Q&A session to grab more help from employees
+
