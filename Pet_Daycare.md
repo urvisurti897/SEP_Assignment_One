@@ -89,4 +89,14 @@ Possible follow up clarification questions that are generated from the informati
         4. Which standard materials are followed for training of onboarding process?
         5. Which section of onboarding process requires more attention?
         6. At what time of period, onboarding material is updated?
+        
+    B For Employees
+        1. What are the ways carried out for new onboarding process?
+        2. Which section is tough to handle? 
+        3. What steps are carried out to make onboarding process user-friendly?
+        4. On what basis, onboarding process is considered user-friendly?
+        5. How are guidelines utilized for onboarding process?
+        6. How various types of training is helpful to carry out a standard onboarding process?
+
+
 
